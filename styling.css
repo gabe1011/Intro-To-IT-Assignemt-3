@@ -1,9 +1,9 @@
 body {
-  color: #b31c1c;
+  color: #CFF6FF;
   margin: 0 0 100px 0;
   background-color: #000044;
 }
-
+ 
 .aligncenter {
   text-align: center;
 }
@@ -79,6 +79,15 @@ header {
   border: lightblue 1px solid;
   margin: 0 4px;
   border-radius: 15px;
+}
+
+#header_image{
+  display: inline-block;
+  margin: 20px;
+  border: 1px solid black;
+  overflow: hidden; 
+  position:absolute;left:64.1%;top:35.3%
+  
 }
 
 /* main related CSS */
