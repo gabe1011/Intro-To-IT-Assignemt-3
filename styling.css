@@ -4,7 +4,6 @@ body {
   background-color: #000044;
 }
  
-testing
 .aligncenter {
   text-align: center;
 }
@@ -82,14 +81,6 @@ header {
   border-radius: 15px;
 }
 
-#header_image{
-  display: inline-block;
-  margin: 20px;
-  border: 1px solid black;
-  overflow: hidden; 
-  position:absolute;left:64.1%;top:35.3%
-  
-}
 
 /* main related CSS */
 #homepage_image {
