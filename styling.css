@@ -240,6 +240,13 @@ tr:nth-child(odd) {
   width: 95%;
 }
 
+.proj_overview {
+  padding-left: 5%;
+  padding-right: 5%;
+  border: lightblue 1px solid;
+  border-radius: 15px; 
+}
+
 .technologies {
   margin: 50px 250px;
   border: lightblue 1px solid;
