@@ -316,7 +316,6 @@ tr:nth-child(odd) {
 
 .profile_bottom_content img {
   width: 100%;
-  length: 100%;
   height: 100%;
   margin: auto;
 }
@@ -360,7 +359,7 @@ tr:nth-child(odd) {
 
 .img_idealjobs img {
   width: 50%;
-  length: auto;
+  
 }
 
 /* footer related CSS */
