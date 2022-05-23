@@ -81,6 +81,19 @@ header {
   border-radius: 15px;
 }
 
+.center {
+  margin: auto;
+  text-align: center;
+  width: 30%;
+  border: lightblue 1px solid;
+  border-radius: 15px;
+  padding: 1%;
+}
+
+div, iframe {
+  margin: 0 auto;
+  display: block;
+}
 
 /* main related CSS */
 #homepage_image {
