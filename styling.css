@@ -1,7 +1,11 @@
 body {
-  color: #CFF6FF;
+  color: #fff6f6;
   margin: 0 0 100px 0;
   background-color: #000044;
+  font-size: large;
+}
+h1{
+  color: white;
 }
  
 .aligncenter {
@@ -9,7 +13,7 @@ body {
 }
 
 a {
-  color: #CFF6FF;
+  color: #fff6f6;
 }
 p2 {
   font-family: Brush Script MT, Brush Script Std, cursive;
@@ -18,15 +22,15 @@ p2 {
 }
 
 a:hover {
-  color: #AEE8F5;
+  color: #ffc2c2;
 }
 
 a:active {
-  color: #A8FFF8;
+  color: #ffa8a8;
 }
 
 a:visited {
-  color: #AEE8F5;
+  color: #f8d2c1;
 }
 
 hr {
@@ -70,6 +74,7 @@ header {
 .header_text {
   text-align: center;
   width: 70%;
+  
 }
 
 .title {
@@ -77,6 +82,7 @@ header {
   border: lightblue 1px solid;
   border-radius: 15px;
   padding: 15px;
+  color: white;
 }
 
 #navigation_bar {
