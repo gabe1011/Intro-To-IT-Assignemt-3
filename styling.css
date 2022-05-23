@@ -11,6 +11,11 @@ body {
 a {
   color: #CFF6FF;
 }
+p2 {
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  font-size: 50px;
+  color: #CFF6FF;
+}
 
 a:hover {
   color: #AEE8F5;
@@ -101,6 +106,7 @@ button {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  cursor: pointer;
 }
 div, iframe {
   margin: 0 auto;
@@ -249,6 +255,13 @@ tr:nth-child(odd) {
 
 .industry_job_main h4 {
   margin-left: 50px;
+}
+h5 {
+  font-weight: bold;
+  color: rgb(180, 238, 178);
+  font-size: 25px;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+
 }
 
 .industry_job_flex {
