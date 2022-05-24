@@ -2,7 +2,7 @@ body {
   color: #fff6f6;
   margin: 0 0 100px 0;
   background-color: #000044;
-  font-size: large;
+  font-size: 18px;
 }
 h1{
   color: white;
@@ -113,6 +113,11 @@ button {
   display: inline-block;
   font-size: 16px;
   cursor: pointer;
+  
+}
+button:hover{
+
+  background-color: #564b57;
 }
 div, iframe {
   margin: 0 auto;
